@@ -1,4 +1,9 @@
 
 public class Login {
-
+		
+public static void main(String[] args) {
+	DemoPanel panel=new DemoPanel();
+	DemoFrame Frame=new DemoFrame(panel);
 }
+}
+
